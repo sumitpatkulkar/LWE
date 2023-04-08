@@ -1,0 +1,114 @@
+.wrapper{
+  height: 400vh;
+}
+.login{
+  width: 600px;
+  padding: 20px;
+  color: black;
+  background-color: rgb(255, 155, 176);
+  height: 430px;
+  border-radius:10px;
+  box-shadow: 5px 5px 5px rgba(97, 43, 43, 0.2);
+}
+body {
+  background-color: hsl(0, 0%, 100%);
+}
+.style{
+  color: crimson;
+  background-color: bisque;
+}
+.wrapper{
+  height: 400vh;
+}
+.login{
+  width: 500px;
+  padding: 20px;
+  color: black;
+  background-color:   rgb(255, 155, 176);
+  height: 500px;; 
+  border-radius:10px;
+  box-shadow: 5px 5px 5px rgba(46, 16, 16, 0.2);
+  
+}
+body {
+  background-color: #fff;
+}
+body{
+  font-family: 'sans-serif';
+
+}
+.trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  line-height: 64px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+.trigger:hover {
+  color: #1890ff;
+}
+
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+
+.ant-layout{
+  min-height: 100vh;
+}
+.ant-layout-sider{
+  flex: 0 0 250px !important;
+  max-width: 250px !important;
+  min-width: 250px !important;
+  width: 250px !important;
+}
+.ant-layout-sider-collapsed{
+  flex: 0 0 120px !important;
+  max-width: 120px !important;
+  min-width: 120px !important;
+  width: 120px !important;
+}
+.logo{
+  background-color:  rgb(255, 155, 176);
+  margin: 0;
+  height: 64px;
+}
+.ant-menu-title-content{
+  font-size: 16px;
+}
+.ant-layout-header h5{
+  line-height:20px;
+  font-size: 16px;
+}
+.ant-layout-header p{
+  line-height: 20px;
+  font-size: 15px;
+}
+.ant-layout-header div .badged{
+  top: 16px;
+  right: -6px;
+}
+.ps-2{
+  padding-left: .25rem !important;
+}
+.ps-5{
+  padding-right: 3rem !important;
+}
+.justify-content-between{
+  justify-content: space-between !important;
+}
+.d-flex{
+  display: flex !important;
+}
+main{
+  overflow: scroll;
+}
+.background{
+  background-color: rgb(187, 139, 149);
+}
